@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 23.12.25
+# Register no.: 25015787
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -31,15 +31,36 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
+INPUT AND OUTPUT:
+
+PROMPT 1:
+
+An old cowboy slowly riding his horse through a quiet village from the early 1900s.
+Wooden houses, dirt roads, vintage carts, and old-style lanterns line the street.
+The cowboy wears worn leather boots, a wide-brimmed hat, and a dusty coat, showing age and experience.
+Warm afternoon sunlight casts long shadows, with subtle dust rising as the horse moves.
+Villagers in period clothing watch calmly, creating an authentic historical atmosphere.
+Cinematic camera movement, ultra-realistic details, shallow depth of field, and smooth natural motion.
+
+
+
+https://github.com/user-attachments/assets/35064788-d620-4bbd-b8ca-c0ba446b15ff
+
+PROMPT 2:
+
+A fierce winter warrior riding a massive white bear through a frozen forest.
+Tall snow-covered trees surround the path, their branches heavy with ice and frost.
+The warrior wears fur-lined armor and carries a weathered weapon, breath visible in the cold air.
+The white bear moves steadily across the icy ground, leaving deep footprints in the snow.
+Pale blue winter light filters through the forest, creating a cold, mystical atmosphere.
+Ultra-realistic visuals, cinematic camera movement, slow-motion snow particles, and dramatic depth.
+
+
+
+https://github.com/user-attachments/assets/02188ce8-aed6-427e-9527-887e202790b1
+
+
 
 # Result: The Prompt of the above task executed successfully
 
 
-
-
-
-
-
-
-
-# Result:
